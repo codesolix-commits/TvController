@@ -6,7 +6,7 @@
   },
   "MainAppVersionTesting": {
     "AppVersion": "1.1.9",
-    "IsForceUpdate": true,
-    "IsVersionCheck": true
+    "IsForceUpdate": false,
+    "IsVersionCheck": false
   }
 }
